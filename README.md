@@ -54,5 +54,5 @@ PCA and distance metric customization for pre- and post-clustering analysis
 | ------------- | ------------- |
 |K-means|Allen, Sher Min, Xinyue|
 |K++-means|Allen, Hilda, Xinyue|
-|Agglomerative Hierachical Clustering|Allen, Hilda, Sher Min|
-|Gaussian Mixed Model|Allen|
+|AHC|Allen, Hilda, Sher Min|
+|GMM|Allen|
