@@ -41,6 +41,14 @@ Jupyter Notebook for visualization and experimentation
 
 PCA and distance metric customization for pre- and post-clustering analysis
 
+## Datasets
+
+[World Bank Dataset](https://www.kaggle.com/datasets/bhadramohit/world-bank-dataset)
+
+[Diabetes Prediction Dataset](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset)
+
+[Bodyfat Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset)
+
 ## Team Members
 | Name | Email |
 | ------------- | ------------- |
