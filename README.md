@@ -51,7 +51,7 @@ PCA and distance metric customization for pre- and post-clustering analysis
 
 ## Team Members
 | Name | Email | Website |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 |Allen Lu Zhao Quan|ALLE0002@e.ntu.edu.sg| [Portfolio](https://allenlu.vercel.app) |
 |Gao Xinyue|GAOX0032@e.ntu.edu.sg| [Linkedin](https://www.linkedin.com/in/xinyuegaontusg) |
 |Hilda Tio|HTIO001@e.ntu.edu.sg| [Linkedin](https://www.linkedin.com/in/tiohilda) |
