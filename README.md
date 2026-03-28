@@ -50,12 +50,12 @@ PCA and distance metric customization for pre- and post-clustering analysis
 [Bodyfat Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset)
 
 ## Team Members
-| Name | Email |
+| Name | Email | Website |
 | ------------- | ------------- |
-|Allen Lu Zhao Quan|ALLE0002@e.ntu.edu.sg|
-|Gao Xinyue|GAOX0032@e.ntu.edu.sg|
-|Hilda Tio|HTIO001@e.ntu.edu.sg|
-|Tio Sher Min|STIO002@e.ntu.edu.sg|
+|Allen Lu Zhao Quan|ALLE0002@e.ntu.edu.sg| [Portfolio](https://allenlu.vercel.app) |
+|Gao Xinyue|GAOX0032@e.ntu.edu.sg| [Linkedin](https://www.linkedin.com/in/xinyuegaontusg) |
+|Hilda Tio|HTIO001@e.ntu.edu.sg| [Linkedin](https://www.linkedin.com/in/tiohilda) |
+|Tio Sher Min|STIO002@e.ntu.edu.sg| [Linkedin](https://www.linkedin.com/in/sher-min-tio-119a58327) | 
 
 ## Contributors
 | Component | Name |
